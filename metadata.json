@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Dev Orchestrator",
+  "description": "AI DevOps Command Center with Multi-Agent Swarm (Claude & Codex), DevSecOps MASVS Scanner, Performance Lab, Exa Search & Grok TTS",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

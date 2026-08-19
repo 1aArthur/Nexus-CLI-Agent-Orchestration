@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Hexagonal Core -->
+    <path
+        android:strokeColor="#00F0FF"
+        android:strokeWidth="3"
+        android:fillColor="#151C2C"
+        android:pathData="M54,24 L80,39 L80,69 L54,84 L28,69 L28,39 Z" />
+
+    <!-- Inner Processor / Agent Diamond -->
+    <path
+        android:fillColor="#8B5CF6"
+        android:pathData="M54,36 L68,54 L54,72 L40,54 Z" />
+
+    <!-- Terminal Prompt / Matrix Node -->
+    <path
+        android:fillColor="#00F0FF"
+        android:pathData="M48,50 L53,54 L48,58 Z" />
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M56,57 L62,57 L62,59 L56,59 Z" />
+
+    <!-- Outer Neural Nodes -->
+    <path
+        android:fillColor="#00F0FF"
+        android:pathData="M54,18 A3,3 0 1,1 54,24 A3,3 0 1,1 54,18" />
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M84,36 A3,3 0 1,1 84,42 A3,3 0 1,1 84,36" />
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M84,66 A3,3 0 1,1 84,72 A3,3 0 1,1 84,66" />
+    <path
+        android:fillColor="#8B5CF6"
+        android:pathData="M54,84 A3,3 0 1,1 54,90 A3,3 0 1,1 54,84" />
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M24,66 A3,3 0 1,1 24,72 A3,3 0 1,1 24,66" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M24,36 A3,3 0 1,1 24,42 A3,3 0 1,1 24,36" />
+</vector>
