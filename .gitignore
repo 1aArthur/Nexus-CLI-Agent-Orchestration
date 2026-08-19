@@ -1,18 +1,63 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+build/
+*.dart_tool/
+.pub-cache/
+
+# IDE
+.idea/
+.vscode/
 *.iml
-.gradle
-.kotlin
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
+*.ipr
+*.iws
+
+# OS
 .DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
-local.properties
+Thumbs.db
+
+# Flutter
+flutter_*.png
+flutter_*.jpg
+
+# Dart
+*.dart.js
+*.dart.js.map
+.dart_tool/
+.packages
+
+# Build outputs
+*.apk
+*.aab
+*.ipa
+*.dSYM/
+*.xcarchive/
+
+# Coverage
+coverage/
+*.lcov
+
+# Local config
 .env
-debug.keystore
+.env.local
+*.local.properties
+
+# Keystores
+*.jks
+*.keystore
+keystore/
+
+# Hive
+*.hive
+*.hive.lock
+
+# Generated files
+*.g.dart
+*.freezed.dart
+*.gr.dart
+
+# Logs
+*.log
+
+# Test
+test/reports/
